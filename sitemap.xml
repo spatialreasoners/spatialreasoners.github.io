@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://spatialreasoners.github.io/spatialreasoners/</loc>
+         <lastmod>2025-07-07</lastmod>
+    </url>
+    <url>
+         <loc>https://spatialreasoners.github.io/spatialreasoners/api/</loc>
+         <lastmod>2025-07-07</lastmod>
+    </url>
+    <url>
+         <loc>https://spatialreasoners.github.io/spatialreasoners/changelog/</loc>
+         <lastmod>2025-07-07</lastmod>
+    </url>
+    <url>
+         <loc>https://spatialreasoners.github.io/spatialreasoners/getting-started/installation/</loc>
+         <lastmod>2025-07-07</lastmod>
+    </url>
+    <url>
+         <loc>https://spatialreasoners.github.io/spatialreasoners/getting-started/quick-tour/</loc>
+         <lastmod>2025-07-07</lastmod>
+    </url>
+</urlset>
